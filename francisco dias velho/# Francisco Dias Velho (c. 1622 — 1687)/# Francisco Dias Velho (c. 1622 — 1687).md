@@ -191,4 +191,6 @@ O **bandeirante que trocou a escravidão pela construção**, o **pioneiro que p
 3. **Contraste:** Colonizador vs Pirata — quem é o vilão real?  
 4. **Perspectiva indígena:** Os 500 escravizados na fundação — suas vozes?  
   
-**Visual Chave:** A capela sendo construída / a capela como cena do crime. **Ciclo completo.**  
+**Visual Chave:** A capela sendo construída / a capela como cena do crime. **Ciclo completo.**
+
+

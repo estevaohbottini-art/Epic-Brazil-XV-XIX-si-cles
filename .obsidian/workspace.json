@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,21 +177,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "e2554cf66972d1e2",
+  "active": "1f8b3d6eaf46762d",
   "lastOpenFiles": [
+    "francisco dias velho/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687)/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687)/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687).md",
+    "francisco dias velho/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687)/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687)",
+    "Pólvora.md",
+    "francisco dias velho/# Francisco Dias Velho (c. 1622 — 1687)/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687).md",
+    "francisco dias velho/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687).md",
+    "francisco dias velho/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687)/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687).md",
+    "francisco dias velho/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687)",
+    "Welcome.md",
+    "francisco dias velho/Contexto-Mundial-Dias-Velho/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687)/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687).md",
+    "francisco dias velho/Contexto-Mundial-Dias-Velho/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687)",
+    "francisco dias velho/Contexto-Mundial-Dias-Velho",
+    "francisco dias velho/Contexto",
+    "francisco dias velho/untitled folder",
     "francisco dias velho/# Francisco Dias Velho (c. 1622 — 1687)/# Francisco Dias Velho (c. 1622 — 1687).md",
     "francisco dias velho/# Francisco Dias Velho (c. 1622 — 1687)",
     "francisco dias velho/francisco-dias-velho:Francisco-Dias-Velho.md/# Francisco Dias Velho (c. 1622 — 1687)/# Francisco Dias Velho (c. 1622 — 1687).md",
     "francisco dias velho/francisco-dias-velho:Francisco-Dias-Velho.md/# Francisco Dias Velho (c. 1622 — 1687)",
     "francisco dias velho/francisco-dias-velho:Francisco-Dias-Velho.md",
-    "francisco dias velho/untitled folder",
     "francisco dias velho/05-publicaçoes/youtube",
-    "francisco dias velho/05-publicaçoes/x",
-    "francisco dias velho/05-publicaçoes/threads",
-    "francisco dias velho/04-producao/storyboards",
-    "francisco dias velho/04-producao/prompts-ia",
-    "francisco dias velho/04-producao/ativos-visuais",
-    "francisco dias velho/03 - roteiros/revisoes",
-    "Welcome.md"
+    "francisco dias velho/05-publicaçoes/x"
   ]
 }
