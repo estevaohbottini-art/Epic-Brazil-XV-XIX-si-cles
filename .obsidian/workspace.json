@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0da8bf8ec92e1dc7",
+        "id": "19599f0c3349abb5",
         "type": "tabs",
         "children": [
           {
-            "id": "1f8b3d6eaf46762d",
+            "id": "15323a0366a85420",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 552.5
   },
   "right": {
     "id": "cdd7cf92a38f4327",
@@ -157,8 +157,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "136c9eed248cd973",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -177,11 +188,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "1f8b3d6eaf46762d",
+  "active": "15323a0366a85420",
   "lastOpenFiles": [
+    "Pólvora.md",
+    "francisco dias velho/Histórias-Não-Contadas-Perspectivas.md/# As Histórias Não Contadas Perspectivas Ocultas do Mundo de Dias…/# As Histórias Não Contadas Perspectivas Ocultas do Mundo de Dias….md",
+    "francisco dias velho/Histórias-Não-Contadas-Perspectivas.md/# As Histórias Não Contadas Perspectivas Ocultas do Mundo de Dias…",
+    "francisco dias velho/Histórias-Não-Contadas-Perspectivas.md",
+    "francisco dias velho/untitled folder",
+    "Untitled.canvas",
     "francisco dias velho/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687)/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687)/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687).md",
     "francisco dias velho/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687)/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687)",
-    "Pólvora.md",
     "francisco dias velho/# Francisco Dias Velho (c. 1622 — 1687)/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687).md",
     "francisco dias velho/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687).md",
     "francisco dias velho/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687)/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687).md",
@@ -191,13 +207,11 @@
     "francisco dias velho/Contexto-Mundial-Dias-Velho/# Contexto Mundial A Época de Francisco Dias Velho (1675-1687)",
     "francisco dias velho/Contexto-Mundial-Dias-Velho",
     "francisco dias velho/Contexto",
-    "francisco dias velho/untitled folder",
     "francisco dias velho/# Francisco Dias Velho (c. 1622 — 1687)/# Francisco Dias Velho (c. 1622 — 1687).md",
     "francisco dias velho/# Francisco Dias Velho (c. 1622 — 1687)",
     "francisco dias velho/francisco-dias-velho:Francisco-Dias-Velho.md/# Francisco Dias Velho (c. 1622 — 1687)/# Francisco Dias Velho (c. 1622 — 1687).md",
     "francisco dias velho/francisco-dias-velho:Francisco-Dias-Velho.md/# Francisco Dias Velho (c. 1622 — 1687)",
     "francisco dias velho/francisco-dias-velho:Francisco-Dias-Velho.md",
-    "francisco dias velho/05-publicaçoes/youtube",
-    "francisco dias velho/05-publicaçoes/x"
+    "francisco dias velho/05-publicaçoes/youtube"
   ]
 }
